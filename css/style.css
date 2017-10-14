@@ -1,0 +1,12 @@
+.boxes {
+  height: 100px;
+  width: 100px;
+  background-color: #ccc;
+  display: inline-block;
+}
+.pink {
+  background-color: pink;
+}
+.round-edges {
+  border-radius: 25px;
+}
